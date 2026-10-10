@@ -15,7 +15,7 @@ Java, Swing (`JOptionPane`), leitura de arquivos e projeto NetBeans com Apache A
 1. Instale um JDK compatível com Java 8 e o Apache NetBeans.
 2. Clone o projeto:
    ```bash
-   git clone https://github.com/Joice-O/APS-2024-2.git
+   git clone https://github.com/Joice-O/ComparaSort.git
    ```
 3. Abra a pasta `ComparaSort` como projeto no NetBeans.
 4. Configure `ComparaSort.Main` como classe principal.
